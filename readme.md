@@ -22,15 +22,6 @@ This project allows users to track their **income and expenses**, view their **c
 - **CSS** – Styling and responsive design  
 - **JavaScript** – Logic, DOM manipulation, and calculations  
 
----
 
-## 📸 Screenshots
 
-![Expense Tracker UI](./screenshot.png)
-
-> *(Add your screenshot in the repo and rename it to `screenshot.png`)*
-
----
-
-## 📂 Project Structure
 
