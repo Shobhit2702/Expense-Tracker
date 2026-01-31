@@ -1,58 +1,36 @@
-# Quiz Generator Website
+# 💰 Expense Tracker
 
-A dynamic and interactive quiz generator web application built using **HTML, CSS, and JavaScript**. This project allows users to attempt quizzes, view questions dynamically, and receive instant feedback and scores. It demonstrates strong fundamentals of frontend development and DOM manipulation.
-
----
-
-
+A simple, clean, and responsive **Expense Tracker Web App** built using **HTML, CSS, and Vanilla JavaScript**.  
+This project allows users to track their **income and expenses**, view their **current balance**, and manage transactions in real time.
 
 ---
 
 ## 🚀 Features
 
-* Dynamic quiz generation using JavaScript
-* Real-time score calculation
-* Instant feedback on quiz completion
-* Responsive and user-friendly UI
-* Clean and simple design
+- 📊 Real-time balance calculation  
+- ➕ Add income transactions  
+- ➖ Add expense transactions (using negative values)  
+- 🧾 Transaction history list  
+- 🎨 Modern and responsive UI  
+- ⚡ Instant updates without page reload  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **HTML5** – Structure of the web application
-* **CSS3** – Styling and responsive layout
-* **JavaScript (Vanilla)** – Quiz logic and DOM manipulation
+- **HTML** – Structure of the application  
+- **CSS** – Styling and responsive design  
+- **JavaScript** – Logic, DOM manipulation, and calculations  
+
+---
+
+## 📸 Screenshots
+
+![Expense Tracker UI](./screenshot.png)
+
+> *(Add your screenshot in the repo and rename it to `screenshot.png`)*
 
 ---
 
 ## 📂 Project Structure
 
-```
-quiz-generator/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
-
-
-
-## 📌 Future Improvements
-
-* Add a timer for each quiz
-* Randomize questions and options
-* Add difficulty levels
-* Store scores using localStorage
-* Integrate backend/database support
-
----
-
-## 👨‍💻 Author
-
-**Shobhit Kumar**
-B.Tech ECE, NIT Patna
-
----
-
-⭐ If you like this project, consider giving it a star!
